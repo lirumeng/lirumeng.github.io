@@ -24,14 +24,12 @@ export default {
 #app .img-avatar {
   -webkit-transition: .3s;
   transition: .3s;
-  border: 4px solid #7777f9;
+  border: 4px solid #42b983;
   border-radius: 60px 0;
 }
 
 #app .img-avatar:hover {
   border-color: #e13157;
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
   border-radius: 50%;
 }
 </style>

@@ -53,7 +53,7 @@ a {
   transition: all .3s;
 }
 a:hover {
-  color: #364ab6;
+  color: #e13157;
   font-size: 30px;
 }
 </style>
