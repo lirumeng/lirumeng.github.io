@@ -50,5 +50,10 @@ li {
 a {
   color: #42b983;
   font-size: 30px;
+  transition: all .3s;
+}
+a:hover {
+  color: #364ab6;
+  font-size: 30px;
 }
 </style>
