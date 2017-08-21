@@ -71,7 +71,6 @@ new Vue({
           _this.totalMoney += (item.productPrice*item.productQuantity);
         }
       });
-      console.log(_this.totalMoney);
     },
     delConfirm: function(item){
       this.delFlag = true;
